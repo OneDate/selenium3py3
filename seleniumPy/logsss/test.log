@@ -1,0 +1,6 @@
+µÚÒ»´Î
+test
+2019-08-15 14:36:48,362 register_log.py <module> 10 DEBUG testqwe
+2019-08-15 14:40:47,987 register_log.py---> <module> 10: DEBUG -----testqwe
+2019-08-15 14:41:34,860 register_log.py---> <module> 10: DEBUG -----testqwe
+2019-08-15 14:45:14,611 register_log.py---> <module> 10: DEBUG -----testqwe
